@@ -34,8 +34,12 @@ namespace NorthwindProject.BusinessLogicLayer.Concrete
         {
             var user = userRepository.Login(ObjectMapper.Mapper.Map<User>(login));
 
-            if (user != null)
+            if (user != null && !PasswordHelper.VerifyPasswordHash(login.Password))
             {
+                
+
+
+                
                 var dtoUser = ObjectMapper.Mapper.Map<DtoLoginUser>(user);
                 var token = new TokenManager(configuration).CreateAccessToken(dtoUser);
 
@@ -61,8 +65,11 @@ namespace NorthwindProject.BusinessLogicLayer.Concrete
                     Data = null
                 };
             }
-
+s
         }
+
+
+       
 
         public IResponse<DtoUser> Register(DtoUser register,  bool saveChanges = true)
         {

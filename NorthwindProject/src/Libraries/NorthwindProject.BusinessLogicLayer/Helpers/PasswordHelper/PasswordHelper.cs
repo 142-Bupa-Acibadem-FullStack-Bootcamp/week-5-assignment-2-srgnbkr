@@ -23,5 +23,28 @@ namespace NorthwindProject.BusinessLogicLayer.Helpers.PasswordHelper
             }
             return stringBuilder.ToString();
         }
+
+        public static bool VerifyPasswordHash(string password)
+        {
+            MD5 md5Hash = MD5.Create();
+            var computedHash = md5Hash.ComputeHash(Encoding.UTF8.GetBytes(password));
+            for (int i = 0; i < computedHash.Length; i++)
+            {
+                if (computedHash[i] != password[i])
+                {
+                    return false;
+                }
+            }
+            return true;
+        }
+
+
+
+
+
+
+
+
+        
     }
 }
