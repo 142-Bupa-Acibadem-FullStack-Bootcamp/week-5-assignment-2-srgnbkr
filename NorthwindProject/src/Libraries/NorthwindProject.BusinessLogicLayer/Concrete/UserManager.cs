@@ -1,4 +1,4 @@
-﻿using AutoMapper.Internal.Mappers;
+using AutoMapper.Internal.Mappers;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Configuration;
 using NorthwindProject.BusinessLogicLayer.Base;
@@ -30,11 +30,22 @@ namespace NorthwindProject.BusinessLogicLayer.Concrete
             this.configuration = configuration;
         }
 
-        public IResponse<DtoUserToken> Login(DtoLogin login)
+       
+       public IResponse<DtoUserToken> Login(DtoLogin login)
         {
-            var user = userRepository.Login(ObjectMapper.Mapper.Map<User>(login));
 
-            if (user != null && !PasswordHelper.VerifyPasswordHash(login.Password))
+            var encryptPassword = PasswordHelper.MD5Hash(login.Password);
+            var newUser = new DtoLogin
+            {
+                UserCode = login.UserCode,
+                Password = encryptPassword
+            };
+            
+
+            var user = userRepository.Login(ObjectMapper.Mapper.Map<User>(newUser));
+            
+
+            if (user != null)
             {
                 
 
@@ -65,7 +76,7 @@ namespace NorthwindProject.BusinessLogicLayer.Concrete
                     Data = null
                 };
             }
-s
+
         }
 
 
