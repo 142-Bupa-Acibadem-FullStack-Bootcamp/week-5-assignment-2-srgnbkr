@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R5NEFjfuu3adUOkSBEIwDX572WuDY8KpC+5W1BuFYsPk7lJ1FBhG8PbwmY2phvRsrENrgVMRHW7qZW4qiQ+PXQ==",
+  "dgSpecHash": "fLVRMcKk9edn8cNbenrVnkewLH/VYhJd1Bjcjhcpe4yOvBJsA45ZsB88L+zAsO6i/DPLINJ8uZ0dYYe47QSqfg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sbaki\\source\\repos\\NorthwindProject\\src\\Libraries\\NorthwindProject.Entities\\NorthwindProject.Entities.csproj",
+  "projectFilePath": "C:\\Users\\sbaki\\OneDrive\\Belgeler\\GitHub\\week-5-assignment-2-srgnbkr\\NorthwindProject\\src\\Libraries\\NorthwindProject.Entities\\NorthwindProject.Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sbaki\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\sbaki\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

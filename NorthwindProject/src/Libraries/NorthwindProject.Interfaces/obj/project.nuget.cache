@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QJuYVeoh9EH8/nc9LrKLpXysRjl8yGS4v9pBArSuSaPQHIlXD8xXOpPiznjz4vSuMYM09/OsL3uu6qzJZyyiWA==",
+  "dgSpecHash": "V/AK/Aj4JsYHGtOBjg4XSxEMTxwQfl48fx5y0SZqPv91IQtISCxP9mpkSUVsBygqpeNRnHgA+Mg/G6bxXHA0iw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sbaki\\source\\repos\\NorthwindProject\\src\\Libraries\\NorthwindProject.Interfaces\\NorthwindProject.Interfaces.csproj",
+  "projectFilePath": "C:\\Users\\sbaki\\OneDrive\\Belgeler\\GitHub\\week-5-assignment-2-srgnbkr\\NorthwindProject\\src\\Libraries\\NorthwindProject.Interfaces\\NorthwindProject.Interfaces.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sbaki\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\sbaki\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

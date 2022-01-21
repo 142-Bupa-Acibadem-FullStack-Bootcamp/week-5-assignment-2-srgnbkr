@@ -5701,11 +5701,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sbaki\\source\\repos\\NorthwindProject\\src\\Presentation\\NorthwindProject.WebAPI\\NorthwindProject.WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\sbaki\\OneDrive\\Belgeler\\GitHub\\week-5-assignment-2-srgnbkr\\NorthwindProject\\src\\Presentation\\NorthwindProject.WebAPI\\NorthwindProject.WebAPI.csproj",
       "projectName": "NorthwindProject.WebAPI",
-      "projectPath": "C:\\Users\\sbaki\\source\\repos\\NorthwindProject\\src\\Presentation\\NorthwindProject.WebAPI\\NorthwindProject.WebAPI.csproj",
+      "projectPath": "C:\\Users\\sbaki\\OneDrive\\Belgeler\\GitHub\\week-5-assignment-2-srgnbkr\\NorthwindProject\\src\\Presentation\\NorthwindProject.WebAPI\\NorthwindProject.WebAPI.csproj",
       "packagesPath": "C:\\Users\\sbaki\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sbaki\\source\\repos\\NorthwindProject\\src\\Presentation\\NorthwindProject.WebAPI\\obj\\",
+      "outputPath": "C:\\Users\\sbaki\\OneDrive\\Belgeler\\GitHub\\week-5-assignment-2-srgnbkr\\NorthwindProject\\src\\Presentation\\NorthwindProject.WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5725,14 +5725,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\sbaki\\source\\repos\\NorthwindProject\\src\\Libraries\\NorthwindProject.BusinessLogicLayer\\NorthwindProject.BusinessLogicLayer.csproj": {
-              "projectPath": "C:\\Users\\sbaki\\source\\repos\\NorthwindProject\\src\\Libraries\\NorthwindProject.BusinessLogicLayer\\NorthwindProject.BusinessLogicLayer.csproj"
+            "C:\\Users\\sbaki\\OneDrive\\Belgeler\\GitHub\\week-5-assignment-2-srgnbkr\\NorthwindProject\\src\\Libraries\\NorthwindProject.BusinessLogicLayer\\NorthwindProject.BusinessLogicLayer.csproj": {
+              "projectPath": "C:\\Users\\sbaki\\OneDrive\\Belgeler\\GitHub\\week-5-assignment-2-srgnbkr\\NorthwindProject\\src\\Libraries\\NorthwindProject.BusinessLogicLayer\\NorthwindProject.BusinessLogicLayer.csproj"
             },
-            "C:\\Users\\sbaki\\source\\repos\\NorthwindProject\\src\\Libraries\\NorthwindProject.DataAccessLayer\\NorthwindProject.DataAccessLayer.csproj": {
-              "projectPath": "C:\\Users\\sbaki\\source\\repos\\NorthwindProject\\src\\Libraries\\NorthwindProject.DataAccessLayer\\NorthwindProject.DataAccessLayer.csproj"
+            "C:\\Users\\sbaki\\OneDrive\\Belgeler\\GitHub\\week-5-assignment-2-srgnbkr\\NorthwindProject\\src\\Libraries\\NorthwindProject.DataAccessLayer\\NorthwindProject.DataAccessLayer.csproj": {
+              "projectPath": "C:\\Users\\sbaki\\OneDrive\\Belgeler\\GitHub\\week-5-assignment-2-srgnbkr\\NorthwindProject\\src\\Libraries\\NorthwindProject.DataAccessLayer\\NorthwindProject.DataAccessLayer.csproj"
             },
-            "C:\\Users\\sbaki\\source\\repos\\NorthwindProject\\src\\Libraries\\NorthwindProject.Interfaces\\NorthwindProject.Interfaces.csproj": {
-              "projectPath": "C:\\Users\\sbaki\\source\\repos\\NorthwindProject\\src\\Libraries\\NorthwindProject.Interfaces\\NorthwindProject.Interfaces.csproj"
+            "C:\\Users\\sbaki\\OneDrive\\Belgeler\\GitHub\\week-5-assignment-2-srgnbkr\\NorthwindProject\\src\\Libraries\\NorthwindProject.Interfaces\\NorthwindProject.Interfaces.csproj": {
+              "projectPath": "C:\\Users\\sbaki\\OneDrive\\Belgeler\\GitHub\\week-5-assignment-2-srgnbkr\\NorthwindProject\\src\\Libraries\\NorthwindProject.Interfaces\\NorthwindProject.Interfaces.csproj"
             }
           }
         }

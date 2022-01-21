@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sbaki\\source\\repos\\NorthwindProject\\src\\Libraries\\NorthwindProject.Interfaces\\NorthwindProject.Interfaces.csproj": {}
+    "C:\\Users\\sbaki\\OneDrive\\Belgeler\\GitHub\\week-5-assignment-2-srgnbkr\\NorthwindProject\\src\\Libraries\\NorthwindProject.Interfaces\\NorthwindProject.Interfaces.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sbaki\\source\\repos\\NorthwindProject\\src\\Libraries\\NorthwindProject.Entities\\NorthwindProject.Entities.csproj": {
+    "C:\\Users\\sbaki\\OneDrive\\Belgeler\\GitHub\\week-5-assignment-2-srgnbkr\\NorthwindProject\\src\\Libraries\\NorthwindProject.Entities\\NorthwindProject.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sbaki\\source\\repos\\NorthwindProject\\src\\Libraries\\NorthwindProject.Entities\\NorthwindProject.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\sbaki\\OneDrive\\Belgeler\\GitHub\\week-5-assignment-2-srgnbkr\\NorthwindProject\\src\\Libraries\\NorthwindProject.Entities\\NorthwindProject.Entities.csproj",
         "projectName": "NorthwindProject.Entities",
-        "projectPath": "C:\\Users\\sbaki\\source\\repos\\NorthwindProject\\src\\Libraries\\NorthwindProject.Entities\\NorthwindProject.Entities.csproj",
+        "projectPath": "C:\\Users\\sbaki\\OneDrive\\Belgeler\\GitHub\\week-5-assignment-2-srgnbkr\\NorthwindProject\\src\\Libraries\\NorthwindProject.Entities\\NorthwindProject.Entities.csproj",
         "packagesPath": "C:\\Users\\sbaki\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sbaki\\source\\repos\\NorthwindProject\\src\\Libraries\\NorthwindProject.Entities\\obj\\",
+        "outputPath": "C:\\Users\\sbaki\\OneDrive\\Belgeler\\GitHub\\week-5-assignment-2-srgnbkr\\NorthwindProject\\src\\Libraries\\NorthwindProject.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -81,14 +81,14 @@
         }
       }
     },
-    "C:\\Users\\sbaki\\source\\repos\\NorthwindProject\\src\\Libraries\\NorthwindProject.Interfaces\\NorthwindProject.Interfaces.csproj": {
+    "C:\\Users\\sbaki\\OneDrive\\Belgeler\\GitHub\\week-5-assignment-2-srgnbkr\\NorthwindProject\\src\\Libraries\\NorthwindProject.Interfaces\\NorthwindProject.Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sbaki\\source\\repos\\NorthwindProject\\src\\Libraries\\NorthwindProject.Interfaces\\NorthwindProject.Interfaces.csproj",
+        "projectUniqueName": "C:\\Users\\sbaki\\OneDrive\\Belgeler\\GitHub\\week-5-assignment-2-srgnbkr\\NorthwindProject\\src\\Libraries\\NorthwindProject.Interfaces\\NorthwindProject.Interfaces.csproj",
         "projectName": "NorthwindProject.Interfaces",
-        "projectPath": "C:\\Users\\sbaki\\source\\repos\\NorthwindProject\\src\\Libraries\\NorthwindProject.Interfaces\\NorthwindProject.Interfaces.csproj",
+        "projectPath": "C:\\Users\\sbaki\\OneDrive\\Belgeler\\GitHub\\week-5-assignment-2-srgnbkr\\NorthwindProject\\src\\Libraries\\NorthwindProject.Interfaces\\NorthwindProject.Interfaces.csproj",
         "packagesPath": "C:\\Users\\sbaki\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sbaki\\source\\repos\\NorthwindProject\\src\\Libraries\\NorthwindProject.Interfaces\\obj\\",
+        "outputPath": "C:\\Users\\sbaki\\OneDrive\\Belgeler\\GitHub\\week-5-assignment-2-srgnbkr\\NorthwindProject\\src\\Libraries\\NorthwindProject.Interfaces\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -108,8 +108,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\sbaki\\source\\repos\\NorthwindProject\\src\\Libraries\\NorthwindProject.Entities\\NorthwindProject.Entities.csproj": {
-                "projectPath": "C:\\Users\\sbaki\\source\\repos\\NorthwindProject\\src\\Libraries\\NorthwindProject.Entities\\NorthwindProject.Entities.csproj"
+              "C:\\Users\\sbaki\\OneDrive\\Belgeler\\GitHub\\week-5-assignment-2-srgnbkr\\NorthwindProject\\src\\Libraries\\NorthwindProject.Entities\\NorthwindProject.Entities.csproj": {
+                "projectPath": "C:\\Users\\sbaki\\OneDrive\\Belgeler\\GitHub\\week-5-assignment-2-srgnbkr\\NorthwindProject\\src\\Libraries\\NorthwindProject.Entities\\NorthwindProject.Entities.csproj"
               }
             }
           }
